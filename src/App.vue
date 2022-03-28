@@ -14,7 +14,7 @@
               />
             </svg>
             First Vue.js project |
-            <a href="https://rawic.me" target="_blank" rel="noopener noreferrer"
+            <a href="" target="_blank" rel="noopener noreferrer"
               >Mohammad Sarosh Basit</a
             >
           </span>
@@ -85,24 +85,24 @@ let cards = [
   },
   {
     id: uuidv4(),
-    front: 'English for ',
-    back: 'Hell no! 😂',
+    front: 'Tamil for cow?',
+    back: 'Matu',
     flipped: false,
     reviewed: false,
     color: `${colors[Math.floor(Math.random() * colors.length)]}`,
   },
   {
     id: uuidv4(),
-    front: 'What is a closure? 😊',
-    back: "A closure is an inner function that has access to the outer (enclosing) function's variables",
+    front: 'Kannada for cow?',
+    back: "Hasu",
     flipped: false,
     reviwed: false,
     color: `${colors[Math.floor(Math.random() * colors.length)]}`,
   },
   {
     id: uuidv4(),
-    front: 'Booyah! 🤩',
-    back: 'Used when someone is extremely overjoyed 🔥',
+    front: 'Gujrati for cow?',
+    back: 'Gaya',
     flipped: false,
     reviewed: false,
     color: `${colors[Math.floor(Math.random() * colors.length)]}`,
