@@ -2,7 +2,7 @@
   "name": "Flashcards",
   "description": "Simple Flashcard App built with Vue.js",
   "version": "1.0.0",
-  "author": "Rafał Wichowski - RAWIC",
+  "author": "Mohammad Sarosh Basit",
   "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
